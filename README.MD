@@ -1,0 +1,1 @@
+This is just a simple example of using Selenium WebDriver
